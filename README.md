@@ -1,17 +1,17 @@
-# News Headline Backend
+## News Headline Backend
 
 新闻资讯应用后端服务，基于 FastAPI 框架开发，提供新闻浏览、用户认证、收藏管理和浏览历史等功能。采用前后端分离架构，前端（Vue/React）通过 RESTful API 与本服务交互。
 
 ## 技术栈
 
 - **Python 3.12**
-- **FastAPI** — 异步 Web 框架
-- **SQLAlchemy 2.0** — 异步 ORM
-- **MySQL** — 关系型数据库（通过 aiomysql 异步驱动连接）
-- **Redis** — 缓存中间件（通过 redis.asyncio 异步客户端连接）
-- **Passlib + bcrypt** — 密码加密
-- **Pydantic v2** — 请求数据校验与响应序列化
-- **Uvicorn** — ASGI 服务器
+- **FastAPI** — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架 — 异步 Web 框架
+- **SQLAlchemy 2.0** — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM — 异步 ORM
+- **MySQL** — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接） — 关系型数据库（通过 aiomysql 异步驱动连接）
+- **Redis** — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接） — 缓存中间件（通过 redis.asyncio 异步客户端连接）
+- **Passlib + bcrypt** — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密 — 密码加密
+- **Pydantic v2** — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化 — 请求数据校验与响应序列化
+- **Uvicorn** — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器 — ASGI 服务器
 
 ## 项目结构
 
